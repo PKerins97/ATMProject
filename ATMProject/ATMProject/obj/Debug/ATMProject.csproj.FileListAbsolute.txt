@@ -1,0 +1,11 @@
+C:\Users\paulk\source\repos\ATMProject\ATMProject\bin\Debug\ATMProject.exe.config
+C:\Users\paulk\source\repos\ATMProject\ATMProject\bin\Debug\ATMProject.exe
+C:\Users\paulk\source\repos\ATMProject\ATMProject\bin\Debug\ATMProject.pdb
+C:\Users\paulk\source\repos\ATMProject\ATMProject\obj\Debug\ATMProject.csprojAssemblyReference.cache
+C:\Users\paulk\source\repos\ATMProject\ATMProject\obj\Debug\ATMProject.frmCheckBalance.resources
+C:\Users\paulk\source\repos\ATMProject\ATMProject\obj\Debug\ATMProject.frmDashBoard.resources
+C:\Users\paulk\source\repos\ATMProject\ATMProject\obj\Debug\ATMProject.Properties.Resources.resources
+C:\Users\paulk\source\repos\ATMProject\ATMProject\obj\Debug\ATMProject.csproj.GenerateResource.cache
+C:\Users\paulk\source\repos\ATMProject\ATMProject\obj\Debug\ATMProject.csproj.CoreCompileInputs.cache
+C:\Users\paulk\source\repos\ATMProject\ATMProject\obj\Debug\ATMProject.exe
+C:\Users\paulk\source\repos\ATMProject\ATMProject\obj\Debug\ATMProject.pdb
